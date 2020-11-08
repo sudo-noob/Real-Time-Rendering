@@ -5,18 +5,18 @@ I am very glad to tell you that I have joined a course at [**"ASTROMEDICOMP"**](
 ## Index
 As I have joined the course recently we haven't been assigned with much work. But I assure you that as soon as we will be assigned with the work I will be updating the index and the repository as the time comes. You will get the steps that you need to perform on your system to run those programs on your system in every derictory from the index.
 
-[**00. GLUT**]()
-   [01. Triangle](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/00-GLUT/01-Triangle)
+[**0. GLUT**]()
+   [1. Triangle](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/00-GLUT/01-Triangle)
 
-[**01. Windows**](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows)
-   [00. Windowing](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing)
-      [01. Window](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/01-Window)
-      [02. Events](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/02-Events)
-      [03. CenterWindow](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/03-CenterWindow)
-      [04. FileIO](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/04-FileIO)
-      [05. HelloWorld](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/05-HelloWorld)
-      [06. Fullscreen](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/06-Fullscreen)
-      [07. Icon](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/07-Icon)
+[**1. Windows**](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows)
+   [0. Windowing](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing)
+      [1. Window](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/01-Window)
+      [2. Events](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/02-Events)
+      [3. CenterWindow](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/03-CenterWindow)
+      [4. FileIO](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/04-FileIO)
+      [5. HelloWorld](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/05-HelloWorld)
+      [6. Fullscreen](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/06-Fullscreen)
+      [7. Icon](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/01-Windows/00-Windowing/07-Icon)
       
     
 
