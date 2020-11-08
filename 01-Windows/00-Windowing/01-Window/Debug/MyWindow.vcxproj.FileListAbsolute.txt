@@ -1,0 +1,2 @@
+C:\Users\Sanchita\Desktop\MyWindow\MyWindow\Debug\MyWindow.exe
+C:\Users\Sanchita\Desktop\MyWindow\MyWindow\Debug\MyWindow.pdb
