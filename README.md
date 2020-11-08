@@ -4,6 +4,7 @@ I am very glad to tell you that I have joined a course at [**"ASTROMEDICOMP"**](
 
 ## Index
 As I have joined the course recently we haven't been assigned with much work. But I assure you that as soon as we will be assigned with the work I will be updating the index and the repository as the time comes. You will get the steps that you need to perform on your system to run those programs on your system in every derictory from the index.
+
 [**00. GLUT**]()
    [01. Triangle](https://github.com/sudo-noob/Real-Time-Rendering/tree/master/00-GLUT/01-Triangle)
 
