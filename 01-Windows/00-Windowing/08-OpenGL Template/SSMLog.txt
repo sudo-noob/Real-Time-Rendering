@@ -1,0 +1,4 @@
+Log file successfully created and program started successfully 
+India is my country.
+Jay Hind.
+Log file closed successfully program is completed successfully. 
